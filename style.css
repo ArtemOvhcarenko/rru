@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background: gray;
+}
+h1{ 
+    opacity: 1;
+    text-align: center;
+    border:solid 3px black;
+}
+a{ 
+border: solid 2px black;
+border-radius: 3px;
+padding: 8px 8px 8px 8px;
+text-decoration: none;
+
+}
+
+.tru:hover{ 
+    opacity: 1;
+    margin-left: 100px;
+}
+.zal:hover{ 
+    opacity: 1;
+    margin-left: 100px;
+}
+.ss{ 
+    text-align: center;
+}
